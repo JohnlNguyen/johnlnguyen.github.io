@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-I am currently working on research at Meta AI Research working with Ilya Mironov and Mike Rabbat. I graudated with Master's from UC Davis in 2010 where I worked with Prem Devanbu and Vincent Hellendoorn . My research interests include federated learning and differential privacy. 
+I am a research engineer at [Meta AI Research](https://ai.facebook.com/), working with Ilya Mironov and Mike Rabbat. I graduated with a Masters from UC Davis in 2019, where I worked with Prem Devanbu and Vincent Hellendoorn. My research interests include federated learning and differential privacy. 
