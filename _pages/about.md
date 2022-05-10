@@ -34,7 +34,7 @@ Toward Fair Federated Recommendation Learning: Characterizing the Inter-Dependen
 ### 2021
 [Opacus: User-Friendly Differential Privacy Library in PyTorch](https://arxiv.org/pdf/2109.12298.pdf)
 
-* Ashkan Yousefpour*, Igor Shilov*, Alexandre Sablayrolles*, Davide Testuggine, Karthik Prasad, Mani Malek, **John Nguyen**, Sayan Ghosh, Akash Bharadwaj, Jessica Zhao, Graham Cormode, Ilya Mironov.
+* Ashkan Yousefpour\*, Igor Shilov\*, Alexandre Sablayrolles\*, Davide Testuggine, Karthik Prasad, Mani Malek, **John Nguyen**, Sayan Ghosh, Akash Bharadwaj, Jessica Zhao, Graham Cormode, Ilya Mironov.
 ∗Equal contribution. 
 
 * Privacy in Machine Learning (PriML) workshop, NeurIPS 2021
