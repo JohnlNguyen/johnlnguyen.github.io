@@ -14,7 +14,7 @@ I am a research engineer at [Meta AI Research](https://ai.facebook.com/), workin
 ## Publications ([see all](https://scholar.google.com/citations?user=3CTTUYgAAAAJ&hl=en))
 
 ### Preprints
-Toward Fair Federated Recommendation Learning: Characterizing the Inter-Dependence of System and Data Heterogeneity.
+[Toward Fair Federated Recommendation Learning: Characterizing the Inter-Dependence of System and Data Heterogeneity](https://arxiv.org/abs/2206.02633)
 
 * Kiwan Maeng, Haiyu Lu, Luca Melis, **John Nguyen**, Mike Rabbat, Carole-Jean Wu.
 
