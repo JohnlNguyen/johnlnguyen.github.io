@@ -14,11 +14,18 @@ I am a research engineer at [Meta AI Research](https://ai.facebook.com/), workin
 ## Publications ([see all](https://scholar.google.com/citations?user=3CTTUYgAAAAJ&hl=en))
 
 ### Preprints
+Where to Begin? Exploring the Impact of Pre-Training
+and Initialization in Federated Learning
+
+* **John Nguyen**, Kshitiz Malik, Maziar Sanjabi, Michael Rabbat. 
+  
+### 2022
 [Toward Fair Federated Recommendation Learning: Characterizing the Inter-Dependence of System and Data Heterogeneity](https://arxiv.org/abs/2206.02633)
 
 * Kiwan Maeng, Haiyu Lu, Luca Melis, **John Nguyen**, Mike Rabbat, Carole-Jean Wu.
 
-### 2022
+* The ACM Conference Series on Recommender Systems (RecSys), 2022.
+
 [Papaya: Practical, Private, and Scalable Federated Learning](https://proceedings.mlsys.org/paper/2022/file/f340f1b1f65b6df5b5e3f94d95b11daf-Paper.pdf)
 
   * Dzmitry Huba, **John Nguyen**, Kshitiz Malik, Ruiyu Zhu, Mike Rabbat, Ashkan Yousefpour, Carole-Jean Wu, Hongyuan Zhan, Pavel Ustinov, Harish Srinivas, Kaikai Wang, Anthony Shoumikhin, Jesik Min, Mani Malek.
@@ -37,4 +44,4 @@ I am a research engineer at [Meta AI Research](https://ai.facebook.com/), workin
 * Ashkan Yousefpour\*, Igor Shilov\*, Alexandre Sablayrolles\*, Davide Testuggine, Karthik Prasad, Mani Malek, **John Nguyen**, Sayan Ghosh, Akash Bharadwaj, Jessica Zhao, Graham Cormode, Ilya Mironov.
 ∗Equal contribution. 
 
-* Privacy in Machine Learning (PriML) workshop, NeurIPS 2021
+* Privacy in Machine Learning (PriML) workshop, NeurIPS 2021.
