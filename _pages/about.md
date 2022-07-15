@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a research engineer at [Meta AI Research](https://ai.facebook.com/), working with Ilya Mironov and Mike Rabbat. I graduated with a Masters from UC Davis in 2019, where I worked with Prem Devanbu and Vincent Hellendoorn. My research interests include federated learning and differential privacy. I served as technical program committee for FL-ICML, and reviewer for ICML, NeurIPS, AISTATS and MLSys. 
+I am a senior research engineer at [Meta AI Research](https://ai.facebook.com/), working with Ilya Mironov and Mike Rabbat. My research interests include large-scale machine learning, federated and on-device learning, and differential privacy. I served as technical program committee for FL-ICML, and reviewer for ICML, NeurIPS, AISTATS and MLSys. 
 
+Prior to Meta, I received my Masters from UC Davis in 2019, where I worked with Prem Devanbu and Vincent Hellendoorn as a member of the empirical software engineering lab (DECAL). 
 
 ## Publications ([see all](https://scholar.google.com/citations?user=3CTTUYgAAAAJ&hl=en))
 
 ### Preprints
-Where to Begin? Exploring the Impact of Pre-Training
-and Initialization in Federated Learning
+[Where to Begin? Exploring the Impact of Pre-Training
+and Initialization in Federated Learning](https://arxiv.org/abs/2206.15387)
 
 * **John Nguyen**, Kshitiz Malik, Maziar Sanjabi, Michael Rabbat. 
   

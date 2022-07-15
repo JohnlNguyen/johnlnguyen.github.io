@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : __JohnNguyen__
 facebook:
   username               :
   app_id                 :
@@ -110,6 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  twitter          : __JohnNguyen__ 
 
 
 # Reading Files
