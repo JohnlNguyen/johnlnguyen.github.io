@@ -10,7 +10,7 @@ redirect_from:
 
 I am a senior research engineer at [Meta AI Research](https://ai.facebook.com/), working with Ilya Mironov and Mike Rabbat. My research interests include large-scale machine learning, federated and on-device learning, and differential privacy. I served as technical program committee for FL-ICML, and reviewer for ICML, NeurIPS, AISTATS and MLSys. 
 
-Prior to Meta, I received my Masters from UC Davis in 2019, where I worked with Prem Devanbu and Vincent Hellendoorn as a member of the empirical software engineering lab (DECAL). 
+Prior to Meta, I graduated Cum Laude from UC Davis with with double majors in Statistics and Computer Science (2018) and M.S in Computer Science (2019). At UC Davis, I worked with Prem Devanbu and Vincent Hellendoorn on empirical software engineering. 
 
 ## Publications ([see all](https://scholar.google.com/citations?user=3CTTUYgAAAAJ&hl=en))
 
