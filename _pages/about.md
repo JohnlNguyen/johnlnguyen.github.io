@@ -25,7 +25,7 @@ and Initialization in Federated Learning](https://arxiv.org/abs/2206.15387)
 
 * Kiwan Maeng, Haiyu Lu, Luca Melis, **John Nguyen**, Mike Rabbat, Carole-Jean Wu.
 
-* **Best Paper Finalist** at the ACM Conference Series on Recommender Systems (RecSys), 2022.
+* **Best Paper Finalist Award** at the ACM Conference Series on Recommender Systems (RecSys), 2022.
 
 [Papaya: Practical, Private, and Scalable Federated Learning](https://proceedings.mlsys.org/paper/2022/file/f340f1b1f65b6df5b5e3f94d95b11daf-Paper.pdf)
 
