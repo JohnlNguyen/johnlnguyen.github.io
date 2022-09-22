@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior research engineer at [Meta AI Research](https://ai.facebook.com/). My research interests include large-scale machine learning, federated and on-device learning, and differential privacy. I served as technical program committee for FL-ICML, and reviewer for ICML, NeurIPS, AISTATS and MLSys. 
+I am a senior research engineer at [Meta AI Research](https://ai.facebook.com/). My research interests include large-scale machine learning, federated and on-device learning, and differential privacy. I served as technical program committee for FL-ICML, FL-NeurIPS, and reviewer for ICML, NeurIPS, AISTATS and MLSys. 
 
 Prior to Meta, I graduated Cum Laude from UC Davis with with double majors in Statistics and Computer Science (2018) and M.S in Computer Science (2019). At UC Davis, I worked with Prem Devanbu and Vincent Hellendoorn on empirical software engineering. 
 
