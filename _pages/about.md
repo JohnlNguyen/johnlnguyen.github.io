@@ -14,13 +14,14 @@ Prior to Meta, I graduated Cum Laude from UC Davis with with double majors in St
 
 ## Publications ([see all](https://scholar.google.com/citations?user=3CTTUYgAAAAJ&hl=en))
 
-### Preprints
-[Where to Begin? Exploring the Impact of Pre-Training
-and Initialization in Federated Learning](https://arxiv.org/abs/2206.15387)
+<!-- ### Preprints -->
 
-* **John Nguyen**, Kshitiz Malik, Maziar Sanjabi, Michael Rabbat. 
-  
 ### 2022
+[Where to Begin? Exploring the Impact of Pre-Training and Initialization in Federated Learning](https://arxiv.org/abs/2210.08090)
+* **John Nguyen**, Jianyu Wang, Kshitiz Malik, Maziar Sanjabi, Michael Rabbat
+* Federated Learning: Recent Advances and New Challenges
+in Conjunction with NeurIPS 2022 (FL-NeurIPS'22)
+
 [Toward Fair Federated Recommendation Learning: Characterizing the Inter-Dependence of System and Data Heterogeneity](https://arxiv.org/abs/2206.02633)
 
 * Kiwan Maeng, Haiyu Lu, Luca Melis, **John Nguyen**, Mike Rabbat, Carole-Jean Wu.
