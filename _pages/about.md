@@ -18,12 +18,12 @@ Prior to Meta, I graduated Cum Laude from UC Davis with with double majors in St
 [On Noisy Evaluation in Federated Hyperparameter Tuning](https://arxiv.org/abs/2212.08930)
 * Kevin Kuo, Pratiksha Thaker, Mikhail Khodak, **John Nguyen**, Daniel Jiang, Ameet Talwalkar, Virginia Smith
   
-### 2022
+### 2023
 [Where to Begin? Exploring the Impact of Pre-Training and Initialization in Federated Learning](https://arxiv.org/abs/2210.08090)
 * **John Nguyen**, Jianyu Wang, Kshitiz Malik, Maziar Sanjabi, Michael Rabbat
-* Federated Learning: Recent Advances and New Challenges
-in Conjunction with NeurIPS 2022 (FL-NeurIPS'22)
-
+* **Spotlight** at International Conference on Learning Representations (ICLR) 2023
+  
+### 2022
 [Toward Fair Federated Recommendation Learning: Characterizing the Inter-Dependence of System and Data Heterogeneity](https://arxiv.org/abs/2206.02633)
 
 * Kiwan Maeng, Haiyu Lu, Luca Melis, **John Nguyen**, Mike Rabbat, Carole-Jean Wu.
