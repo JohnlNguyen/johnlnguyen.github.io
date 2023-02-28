@@ -13,12 +13,12 @@ I am a senior research engineer at [Meta AI Research](https://ai.facebook.com/).
 Prior to Meta, I graduated Cum Laude from UC Davis with with double majors in Statistics and Computer Science (2018) and M.S in Computer Science (2019). At UC Davis, I worked with Prem Devanbu and Vincent Hellendoorn on empirical software engineering. 
 
 ## Publications ([see all](https://scholar.google.com/citations?user=3CTTUYgAAAAJ&hl=en))
-
-### Preprints
-[On Noisy Evaluation in Federated Hyperparameter Tuning](https://arxiv.org/abs/2212.08930)
-* Kevin Kuo, Pratiksha Thaker, Mikhail Khodak, **John Nguyen**, Daniel Jiang, Ameet Talwalkar, Virginia Smith
   
 ### 2023
+[On Noisy Evaluation in Federated Hyperparameter Tuning](https://arxiv.org/abs/2212.08930)
+* Kevin Kuo, Pratiksha Thaker, Mikhail Khodak, **John Nguyen**, Daniel Jiang, Ameet Talwalkar, Virginia Smith
+* Conference on Machine Learning and Systems (MLSys), 2023.
+
 [Where to Begin? Exploring the Impact of Pre-Training and Initialization in Federated Learning](https://arxiv.org/abs/2210.08090)
 * **John Nguyen**, Jianyu Wang, Kshitiz Malik, Maziar Sanjabi, Michael Rabbat
 * **Spotlight** at International Conference on Learning Representations (ICLR) 2023
