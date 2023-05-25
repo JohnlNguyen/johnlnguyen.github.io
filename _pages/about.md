@@ -13,7 +13,9 @@ I am a senior research engineer at [Meta AI Research](https://ai.facebook.com/).
 Prior to Meta, I graduated Cum Laude from UC Davis with double majors in Statistics and Computer Science (2018) and M.S in Computer Science (2019). At UC Davis, I worked with Prem Devanbu and Vincent Hellendoorn on empirical software engineering. 
 
 ## Publications ([see all](https://scholar.google.com/citations?user=3CTTUYgAAAAJ&hl=en))
-  
+### Preprint
+[READ: Recurrent Adaptation of Large Transformers](https://arxiv.org/abs/2305.15348)
+* Sid Wang, John Nguyen, Ke Li, Carole-Jean Wu
 ### 2023
 [On Noisy Evaluation in Federated Hyperparameter Tuning](https://arxiv.org/abs/2212.08930)
 * Kevin Kuo, Pratiksha Thaker, Mikhail Khodak, **John Nguyen**, Daniel Jiang, Ameet Talwalkar, Virginia Smith
