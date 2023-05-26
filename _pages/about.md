@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior research engineer at [Meta AI Research](https://ai.facebook.com/). My research interests include large-scale machine learning, federated and on-device learning, and differential privacy. I served as technical program committee for FL-ICML, FL-NeurIPS, and reviewer for ICLR, ICML, NeurIPS, AISTATS and MLSys. 
+I am a senior research engineer at [Meta GenAI](https://ai.facebook.com/), working on GenAI for media. Previously, I was at Meta AI Research working on federated learning. My research interests include federated learning, training efficiency of large-scale generative AI systems, and privacy-preserving and robust machine learning. I served in the organizing committee for FL-ICML, program commitee for FL-NeurIPS, and reviewer for ICLR, ICML, NeurIPS, AISTATS and MLSys. 
 
 Prior to Meta, I graduated Cum Laude from UC Davis with double majors in Statistics and Computer Science (2018) and M.S in Computer Science (2019). At UC Davis, I worked with Prem Devanbu and Vincent Hellendoorn on empirical software engineering. 
 
 ## Publications ([see all](https://scholar.google.com/citations?user=3CTTUYgAAAAJ&hl=en))
 ### Preprint
 [READ: Recurrent Adaptation of Large Transformers](https://arxiv.org/abs/2305.15348)
-* Sid Wang, John Nguyen, Ke Li, Carole-Jean Wu
+* Sid Wang, **John Nguyen**, Ke Li, Carole-Jean Wu
 
 ### 2023
 [On Noisy Evaluation in Federated Hyperparameter Tuning](https://arxiv.org/abs/2212.08930)
@@ -25,7 +25,8 @@ Prior to Meta, I graduated Cum Laude from UC Davis with double majors in Statist
 [Where to Begin? Exploring the Impact of Pre-Training and Initialization in Federated Learning](https://arxiv.org/abs/2210.08090)
 * **John Nguyen**, Jianyu Wang, Kshitiz Malik, Maziar Sanjabi, Michael Rabbat
 * **Spotlight** at International Conference on Learning Representations (ICLR) 2023
-  
+* [Presentation](https://youtu.be/1DuW_IeWpIQ)
+
 ### 2022
 [Toward Fair Federated Recommendation Learning: Characterizing the Inter-Dependence of System and Data Heterogeneity](https://arxiv.org/abs/2206.02633)
 
@@ -44,6 +45,7 @@ Prior to Meta, I graduated Cum Laude from UC Davis with double majors in Statist
   * **John Nguyen**, Kshitiz Malik, Hongyuan Zhan, Ashkan Yousefpour, Mike Rabbat, Mani Malek, Dzmitry Huba.
 
 * International Conference on Artificial Intelligence and Statistics (AISTATS), 2022.
+* [Presentation](https://www.youtube.com/watch?v=Ui-OGUAieNY)
 
 ### 2021
 [Opacus: User-Friendly Differential Privacy Library in PyTorch](https://arxiv.org/pdf/2109.12298.pdf)
