@@ -8,14 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior research engineer at [Meta GenAI](https://ai.facebook.com/), working on GenAI for media. Previously, I was at Meta AI Research working on federated learning. My research interests include federated learning, training efficiency of large-scale generative AI systems, and privacy-preserving and robust machine learning. I served in the organizing committee for FL-ICML, program commitee for FL-NeurIPS, and reviewer for ICLR, ICML, NeurIPS, AISTATS and MLSys. 
+I am a senior research engineer at Meta AI, working on generative AI for media. Previously, I worked on federated learning and privacy in machine learning. My research interests include federated learning, training efficiency of large-scale generative AI systems, and privacy-preserving and robust machine learning. I served on the organizing committee for FL-ICML, the program committee for FL-NeurIPS, and reviewer for ICLR, ICML, NeurIPS, AISTATS, and MLSys. 
 
-Prior to Meta, I graduated Cum Laude from UC Davis with double majors in Statistics and Computer Science (2018) and M.S in Computer Science (2019). At UC Davis, I worked with Prem Devanbu and Vincent Hellendoorn on empirical software engineering. 
+Before Meta, I graduated Cum Laude from UC Davis with double majors in Statistics and Computer Science (2018) and M.S. in Computer Science (2019). At UC Davis, I worked with Prem Devanbu and Vincent Hellendoorn on empirical software engineering. 
 
 ## Publications ([see all](https://scholar.google.com/citations?user=3CTTUYgAAAAJ&hl=en))
 ### Preprint
 [READ: Recurrent Adaptation of Large Transformers](https://arxiv.org/abs/2305.15348)
 * Sid Wang, **John Nguyen**, Ke Li, Carole-Jean Wu
+
+[Now It Sounds Like You: Learning Personalized Vocabulary On Device](https://arxiv.org/abs/2305.03584)
+* Sid Wang, Ashish Shenoy, Pierce Chuang, **John Nguyen**
 
 ### 2023
 [On Noisy Evaluation in Federated Hyperparameter Tuning](https://arxiv.org/abs/2212.08930)

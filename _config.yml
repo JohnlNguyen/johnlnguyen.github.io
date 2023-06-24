@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "John Nguyen"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "John Nguyen"
 description              : &description "personal description"
-url                      : https://johnlnguyen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://johnlnguyen # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JohnlNguyen/johnlnguyen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "John Nguyen"
-  avatar           : "profile.JPG"
+  avatar           : "profile_2.png"
   bio              : "Senior Research Engineer at Meta AI"
-  location         : "Menlo Park"
+  location         : "New York, NY"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=3CTTUYgAAAAJ&hl=en"
-  email            : ngjhn@fb.com
+  email            : ngjhn@meta.com
   uri              :
   bitbucket        :
   codepen          :
