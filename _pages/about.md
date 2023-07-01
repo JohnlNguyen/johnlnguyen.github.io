@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior research engineer at Meta AI, working on generative AI for media. Previously, I worked on federated learning and privacy in machine learning. My research interests include federated learning, training efficiency of large-scale generative AI systems, and privacy-preserving and robust machine learning. I served on the organizing committee for FL-ICML, the program committee for FL-NeurIPS, and reviewer for ICLR, ICML, NeurIPS, AISTATS, and MLSys. 
+I am a research engineer at Meta AI, working on generative AI for media. Previously, I worked on federated learning and privacy in machine learning. My research interests include federated learning, training efficiency of large-scale generative AI systems, and privacy-preserving and robust machine learning. I served on the organizing committee for FL-ICML, the program committee for FL-NeurIPS, and reviewer for ICLR, ICML, NeurIPS, AISTATS, and MLSys. 
 
 Before Meta, I graduated Cum Laude from UC Davis with double majors in Statistics and Computer Science (2018) and M.S. in Computer Science (2019). At UC Davis, I worked with Prem Devanbu and Vincent Hellendoorn on empirical software engineering. 
 
