@@ -13,7 +13,6 @@ I am a research engineer at Meta AI (FAIR), working AI guided design, federated 
 Before Meta, I graduated Cum Laude from UC Davis with double majors in Statistics and Computer Science (2018) and M.S. in Computer Science (2019). At UC Davis, I worked with Prem Devanbu and Vincent Hellendoorn on empirical software engineering.
 
 ## Publications ([see all](https://scholar.google.com/citations?user=3CTTUYgAAAAJ&hl=en))
-### 
 
 ### 2024
 [Now It Sounds Like You: Learning Personalized Vocabulary On Device](https://arxiv.org/abs/2305.03584)
