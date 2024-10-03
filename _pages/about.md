@@ -21,7 +21,7 @@ Before Meta, I graduated Cum Laude from UC Davis with double majors in Statistic
 
 ### 2023
 [READ: Recurrent Adaptation of Large Transformers](https://arxiv.org/abs/2305.15348)
-* Sid Wang*, **John Nguyen\***, Ke Li, Carole-Jean Wu 
+* **John Nguyen\***, Sid Wang*, Ke Li, Carole-Jean Wu 
 * NeurIPS 2023 R0-FoMo: Robustness of Few-shot and Zero-shot Learning in Foundation Models Workshop
 
 [On Noisy Evaluation in Federated Hyperparameter Tuning](https://arxiv.org/abs/2212.08930)
