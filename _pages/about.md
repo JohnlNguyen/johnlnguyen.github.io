@@ -8,20 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a research engineer at Meta AI (FAIR), working AI guided design, federated learning and privacy in machine learning. My research interests include federated learning, training efficiency of large-scale generative AI systems, and privacy-preserving and robust machine learning. I served on the organizing committee for FL-ICML, the program committee for FL-NeurIPS, and reviewer for ICLR, ICML, NeurIPS, AISTATS, and MLSys.
-
+I am a research engineer at Meta AI (FAIR), working multimodal models. My research interests include multimodal generation and understanding. I served on the organizing committee for FL-ICML, the program committee for FL-NeurIPS, and reviewer for ICLR, ICML, NeurIPS, AISTATS, and MLSys.
+  
 Before Meta, I graduated Cum Laude from UC Davis with double majors in Statistics and Computer Science (2018) and M.S. in Computer Science (2019). At UC Davis, I worked with Prem Devanbu and Vincent Hellendoorn on empirical software engineering.
 
 ## Publications ([see all](https://scholar.google.com/citations?user=3CTTUYgAAAAJ&hl=en))
 
 ### 2024
+
+[Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/pdf/2412.09871)
+
+* Artidoro Pagnoni, Ram Pasunuru*, Pedro Rodriguez*, **John Nguyen***, Benjamin Muller, Margaret Li, Chunting Zhou, Lili Yu, Jason Weston, Luke Zettlemoyer, Gargi Ghosh, Mike Lewis, Ari Holtzman, Srinivasan Iyer
+*Joint second author
+
 [Now It Sounds Like You: Learning Personalized Vocabulary On Device](https://arxiv.org/abs/2305.03584)
 * Sid Wang, Ashish Shenoy, Pierce Chuang, **John Nguyen**
 * AAAI 2024 Spring Symposium
 
 ### 2023
+
 [READ: Recurrent Adaptation of Large Transformers](https://arxiv.org/abs/2305.15348)
-* **John Nguyen\***, Sid Wang*, Ke Li, Carole-Jean Wu 
+
+* **John Nguyen\***, Sid Wang*, Ke Li, Carole-Jean Wu
 * NeurIPS 2023 R0-FoMo: Robustness of Few-shot and Zero-shot Learning in Foundation Models Workshop
 
 [On Noisy Evaluation in Federated Hyperparameter Tuning](https://arxiv.org/abs/2212.08930)
