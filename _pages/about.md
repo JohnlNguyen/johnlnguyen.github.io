@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a research engineer at Meta AI (FAIR), working on multimodal models. My research interests include multimodal generation and understanding. I served on the organizing committee for FL-ICML, the program committee for FL-NeurIPS, and as a reviewer for ICLR, ICML, NeurIPS, AISTATS, and MLSys.
+I am a research engineer working on large multimodal models in Luke Zettlemoyer's group at Meta AI (FAIR). My research interests include multimodal generation, understanding, and open world perception. My goal is to understand and build a unified world model that is visualy intelligent. I previously worked on federated learning at Meta.
 
-Before Meta, I graduated Cum Laude from UC Davis with double majors in Statistics and Computer Science (2018) and M.S. in Computer Science (2019). 
+Before Meta, I graduated Cum Laude from UC Davis with double majors in Statistics and Computer Science (2018) and M.S. in Computer Science (2019).
 
 ## Publications ([see all](https://scholar.google.com/citations?user=3CTTUYgAAAAJ&hl=en))
 
