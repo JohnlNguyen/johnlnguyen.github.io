@@ -29,7 +29,7 @@ Before Meta, I graduated Cum Laude from UC Davis with double majors in Statistic
 
 [Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/pdf/2412.09871)
 
-* Artidoro Pagnoni, Ram Pasunuru*, Pedro Rodriguez*, **John Nguyen***, Benjamin Muller, Margaret Li, Chunting Zhou, Lili Yu, Jason Weston, Luke Zettlemoyer, Gargi Ghosh, Mike Lewis, Ari Holtzman, Srinivasan Iyer
+* Artidoro Pagnoni, Ram Pasunuru\*, Pedro Rodriguez \*, **John Nguyen** \*, Benjamin Muller, Margaret Li, Chunting Zhou, Lili Yu, Jason Weston, Luke Zettlemoyer, Gargi Ghosh, Mike Lewis, Ari Holtzman, Srinivasan Iyer
 * *Joint second author
 * **Outstanding Paper Award** ACL 2025
 
