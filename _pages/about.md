@@ -14,12 +14,24 @@ Before Meta, I graduated Cum Laude from UC Davis with double majors in Statistic
 
 ## Publications ([see all](https://scholar.google.com/citations?user=3CTTUYgAAAAJ&hl=en))
 
+### 2025 
+
+[OneFlow: Concurrent Mixed-Modal and Interleaved Generation with Edit Flows](https://arxiv.org/abs/2510.03506)
+
+* **John Nguyen**, Marton Havasi, Tariq Berrada, Luke Zettlemoyer, Ricky T. Q. Chen
+* [Website](https://oneflow.framer.ai/)
+
+[VUGEN: Visual Understanding priors for GENeration](https://arxiv.org/abs/2510.06529)
+
+* Xingyi Chen, Tom Vallaeys, Maha Elbayad, **John Nguyen**, Jakob Verbeek
+
 ### 2024
 
 [Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/pdf/2412.09871)
 
 * Artidoro Pagnoni, Ram Pasunuru*, Pedro Rodriguez*, **John Nguyen***, Benjamin Muller, Margaret Li, Chunting Zhou, Lili Yu, Jason Weston, Luke Zettlemoyer, Gargi Ghosh, Mike Lewis, Ari Holtzman, Srinivasan Iyer
 * *Joint second author
+* **Outstanding Paper Award** ACL 2025
 
 [Now It Sounds Like You: Learning Personalized Vocabulary On Device](https://arxiv.org/abs/2305.03584)
 
