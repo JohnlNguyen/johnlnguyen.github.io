@@ -8,13 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a research engineer working on large multimodal models in Luke Zettlemoyer's group at Meta AI (FAIR). My research interests include multimodal generation, understanding, and open world perception. My goal is to understand and build a unified world model that is visualy intelligent. I previously worked on federated learning at Meta.
+I'm a Member of Technical Staff at [AMI Labs](https://amilabs.xyz/). I think about how to build visually intelligent systems. My research is on multimodal generation, understanding, and open world perception, with the goal of building a unified world model.
 
-Before Meta, I graduated Cum Laude from UC Davis with double majors in Statistics and Computer Science (2018) and M.S. in Computer Science (2019).
+I build large-scale systems and research how they should work. I've explored concurrent mixed-modal generation [[OneFlow](https://oneflow.framer.ai/)], temporally expansive video generation [[Flowception](https://arxiv.org/abs/2512.11438)], scaling laws for multimodal pretraining [[Beyond Language Modeling](https://beyond-llms.github.io/)], and tokenization-free language modeling [[Byte Latent Transformer](https://arxiv.org/pdf/2412.09871), ACL Outstanding Paper]. On the systems side, I built [Opacus](https://github.com/meta-pytorch/opacus) (4M+ downloads) for differentially private model training, and [Papaya](https://ai.meta.com/blog/asynchronous-federated-learning/) (MLSys 2022), a large-scale asynchronous federated learning platform deployed to millions of users.
+
+Previously, I was at Meta (FAIR) working on large multimodal models and federated learning. I graduated Cum Laude from UC Davis with double majors in Statistics and Computer Science (2018) and M.S. in Computer Science (2019).
 
 ## Publications ([see all](https://scholar.google.com/citations?user=3CTTUYgAAAAJ&hl=en))
 
+### 2026
+
+[Beyond Language Modeling: An Exploration of Multimodal Pretraining](https://arxiv.org/abs/2603.03276)
+
+* Shengbang Tong\*, David Fan\*, **John Nguyen**\*, Ellis Brown, Gaoyue Zhou, Shengyi Qian, Boyang Zheng, Théophane Vallaeys, Junlin Han, Rob Fergus, Naila Murray, Marjan Ghazvininejad, Mike Lewis, Nicolas Ballas, Amir Bar, Michael Rabbat, Jakob Verbeek, Luke Zettlemoyer, Koustuv Sinha, Yann LeCun, Saining Xie
+* \*Joint first author
+* [Website](https://beyond-llms.github.io/)
+
 ### 2025 
+
+[Flowception: Temporally Expansive Flow Matching for Video Generation](https://arxiv.org/abs/2512.11438)
+
+* Tariq Berrada Ifriqi, **John Nguyen**, Karteek Alahari, Jakob Verbeek, Ricky T. Q. Chen
 
 [OneFlow: Concurrent Mixed-Modal and Interleaved Generation with Edit Flows](https://arxiv.org/abs/2510.03506)
 
